@@ -20,3 +20,6 @@ playwright-report/
 # beside it.
 /.plugins/
 /.opencode-skills/
+
+# Cache do pnpm: é recriado pelo pnpm install e não pertence ao repositório.
+.pnpm-store/
